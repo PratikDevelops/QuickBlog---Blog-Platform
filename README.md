@@ -1,12 +1,24 @@
-# React + Vite
+# 🚀 QuickBlog
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**QuickBlog** is a simple and intuitive blogging platform where users can add blogs with a title, cover image, and blog content. Built using React.js, it allows users to manage content easily with a clean and responsive UI.
 
-Currently, two official plugins are available:
+## 🌟 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Add a new blog post with:
+  - Title
+  - Cover image upload
+  - Blog content (textarea-based)
+- Live image preview before upload
+- Responsive and minimal user interface
+- Built with React.js and Tailwind CSS (no external editors)
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js, JavaScript, Tailwind CSS
+
+
+
+
+
